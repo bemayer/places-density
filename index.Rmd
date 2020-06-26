@@ -1,6 +1,6 @@
 ---
-title: "Where to find the most Google Maps places in Parisian North-East ?"
-description: "Geostatistics project for CNAM"
+title: "Where to find the greatest density of places in Parisian North-East ?"
+description: "A spatial data visualisation project made by querying the Google Places API."
 author: "Benoît Mayer"
 output:
   distill::distill_article:
@@ -8,7 +8,8 @@ output:
     self_contained: false
 bibliography: Bibliography.bib
 link-citations: yes
-preview: preview.jpg
+base_url: https://bemayer.github.io/
+preview: index_files/preview.jpg
 ---
 
 ```{r}
@@ -170,11 +171,11 @@ The optimal solution would probably be given by the algorithm developed by Das (
 
 In the absence of a better solution, I have used a staggered grid, as pictured below. 
 
-![Staggered grid](staggered_grid.png){width=100%}
+![Staggered grid](index_files/staggered_grid.png){width=100%}
 
 Let's consider the superposition between two circles. 
 
-![Circle superposition](circle_superposition.png){width=100%}
+![Circle superposition](index_files/circle_superposition.png){width=100%}
 
 The area in the square is $r^2$.
 
@@ -376,7 +377,6 @@ places %>%
 places <-  places %>% 
   filter(str_detect(Type, "point_of_interest|establishment")) %>%
   distinct(Id, .keep_all = TRUE) %>% 
-  arrange(desc(Nb_Rating),Name) %>%
   st_as_sf(coords = c("Lng", "Lat"), crs = 4326) %>%
   st_intersection(North_East)
 
@@ -385,14 +385,14 @@ places
 ```
 
 ``` {r}
-rmarkdown::paged_table(places %>% as_tibble() %>% dplyr::select(-Id) %>% mutate(Name = str_trunc(Name, 30, "right"), Type = str_trunc(Type, 50, "right")))
+rmarkdown::paged_table(places %>% as_tibble() %>% arrange(desc(Nb_Rating)) %>% dplyr::select(-Id) %>% mutate(Name = str_trunc(Name, 30, "right"), Type = str_trunc(Type, 50, "right")))
 
 ```
 
 
 Every places not listed as `point_of_interest` or `establishment` are streets or the city of Paris itself. The focus of this study is only on actual venues thus I filtered them out. 
 
-I also removed the duplicates, transformed the `places` object to an sf object, arranged it by the number of ratings of each places and filtered to keep only the locations in the limits of the North-East arrondissements.
+I also removed the duplicates, transformed the `places` object to an sf object and filtered to keep only the locations within the limits of the North-East arrondissements.
 
 49 866 lines are removed, with 88 799 places remaining.
 
@@ -464,7 +464,7 @@ On the contrary, Pont-de-Flandre is by far the least dense district, with 8 time
 
 ## Places density by type
 
-First the list of all possible types is retrieved.
+First, the list of all possible types is retrieved.
 
 ``` {r, echo=TRUE}
 
@@ -606,3 +606,11 @@ This project taught me how to cope with the technical difficulties for getting d
 The outcome of this study highlighted the great disparities in the geographic distribution of different types of venues among the arrondissements of Parisian North-East.
 
 A possible extension to this work would have been to use the written reviews made by users of Google Maps to identify places with recurrent terms stereotypical to certain categories of population. It would have been interesting for instance to study the spread of organic shops in relation with the gentrification of the North East of Paris. Unfortunately this is hardly feasible due to the limitations of the Google API, the reviews should be queried place by place, and only the fifth newest are retrieved. 
+
+## Acknowledgments {.appendix}
+
+Free choice project made as part of STA112 Geostastistics - Spring 2020 at CNAM (Conservatoire National des Arts et Métiers).
+
+## GitHub {.appendix}
+
+Source code and data available at https://github.com/bemayer/places-density
