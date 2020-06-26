@@ -1,0 +1,47 @@
+"Id","Name","Lat","Lng","Rating","Nb_Rating","Type","Price_level"
+"ChIJ7e3uMgZy5kcRgfYJ3k05cfs","115-105 Avenue Ledru-Rollin","48.8529293","2.3771084",NA,NA,"route",NA
+"ChIJl5GgzQdy5kcRACb4HfFMVdc","Hotel Baudin","48.8531282","2.3769436","3.3","82","lodging point_of_interest establishment",NA
+"ChIJic6S1Qdy5kcRBvi2OG3hYIM","Shop Emmaus Charonne","48.8529906","2.3780104","4","104","point_of_interest establishment",NA
+"ChIJmWCH0gdy5kcR7NKaxFh8uVo","Pharmacie Celnik","48.8530157","2.3773059","2.9","22","pharmacy health point_of_interest store establishment",NA
+"ChIJg9Ngt_ht5kcRFRS_wTbZEkg","Abraham Elodie","48.8529006","2.3772767","4.8","4","lawyer point_of_interest establishment",NA
+"ChIJc8h_0gdy5kcRWH9txoWd8mw","La retoucherie","48.8530559","2.3773776","4.1","11","point_of_interest establishment",NA
+"ChIJ_WT20gdy5kcRQkNDicQ0XCw","isolationss combles","48.8531477","2.3773879",NA,NA,"point_of_interest establishment",NA
+"ChIJAUKILQZy5kcRGriJy73aVJ8","Immo 112 Sarl","48.8527831","2.3772293","1","1","real_estate_agency point_of_interest establishment",NA
+"ChIJNyQOMgZy5kcRyHrz7YvOOQI","Logis Bastille","48.8527785","2.3771583","3.2","13","real_estate_agency point_of_interest establishment",NA
+"ChIJoY9E0Qdy5kcRtZzU49i8udU","LA MANUFACTURE D'INTÉRIEURS","48.8533883","2.3776808",NA,NA,"general_contractor point_of_interest establishment",NA
+"ChIJ9X2b0wdy5kcRh9pL2fY97pY","Les Petits Chaperons Rouges - Les Malicieux","48.8531934","2.3769763",NA,NA,"point_of_interest establishment",NA
+"ChIJbbgMzgdy5kcRhdN_Q4LrhgI","Axiom","48.8533821","2.3771636",NA,NA,"point_of_interest establishment",NA
+"ChIJd5kwt_ht5kcRWnaJNNUVU1Y","Abraham Avocats","48.8529006","2.3772767",NA,NA,"lawyer point_of_interest establishment",NA
+"ChIJoY9E0Qdy5kcR2xOS3dJ3dr8","Resah (Réseau des Acheteurs Hospitaliers)","48.8534632","2.3776533","4.4","7","point_of_interest establishment",NA
+"ChIJIb7rMQZy5kcRUS2sZHXARzs","CNCB","48.852663","2.3771185",NA,NA,"point_of_interest establishment",NA
+"ChIJL5Y_MwZy5kcRnLtxZ918cjU","Aydan coiffure","48.8529802","2.3769447","4.5","51","hair_care point_of_interest establishment",NA
+"ChIJKdbyZRBz5kcRTfXe6nQnTWc","Le bistrot du peintre","48.8530559","2.3773776",NA,NA,"restaurant food point_of_interest establishment",NA
+"ChIJmWCH0gdy5kcRkvQis7uQbr0","Dr Harros Albert","48.8530559","2.3773776","5","2","doctor health point_of_interest establishment",NA
+"ChIJmWCH0gdy5kcRa1TYUtzLyy4","Kipcac François","48.8530559","2.3773776",NA,NA,"point_of_interest establishment",NA
+"ChIJD7fiBh9u5kcRYJSMaMOCCwQ","Paris","48.856614","2.3522219",NA,NA,"locality political",NA
+"ChIJ2ZYOZAty5kcRVaUKv_HxrWI","le bistrot du peintre","48.8531313","2.3773981","5","1","restaurant food point_of_interest establishment",NA
+"ChIJwWApKwZy5kcRmz4VzMea_oI","Laboratories Dergam","48.8530083","2.377731",NA,NA,"point_of_interest establishment",NA
+"ChIJdbEpKwZy5kcRhERxPjQWo64","Cuisine Shop","48.8530008","2.3777389",NA,NA,"point_of_interest establishment",NA
+"ChIJDdS10wdy5kcRKhPxHaBtIpY","Fall Dieynaba","48.8530008","2.3777389",NA,NA,"point_of_interest establishment",NA
+"ChIJRR7B0gdy5kcRD5be1Ru8VFs","Charonne - Keller","48.8529598","2.3772417","4","1","bus_station transit_station point_of_interest establishment",NA
+"ChIJh5utbFRz5kcRxA0EOxQh9O8","Guy Hoquet l'Immobilier","48.8529006","2.3772767",NA,NA,"real_estate_agency finance point_of_interest establishment",NA
+"ChIJS0aTzn5z5kcRbLFQmpSUeLU","Agence Immobilière CityLife Location&Gestion","48.8529006","2.3772767",NA,NA,"real_estate_agency finance point_of_interest establishment",NA
+"ChIJmZJ2LQZy5kcRQRJqXQWvtUA","Zaghdoun Clément","48.8528935","2.377271",NA,NA,"convenience_store food point_of_interest store establishment",NA
+"ChIJj46lMgZy5kcRNRhPSeeLEJc","Lanoue31","48.8529846","2.3772025",NA,NA,"funeral_home point_of_interest establishment",NA
+"ChIJwZYA1Qdy5kcRd889jjMnBCM","Charonne - Keller","48.85318","2.377758",NA,NA,"bus_station transit_station point_of_interest establishment",NA
+"ChIJAUKILQZy5kcRrzQVmF8YIDY","ADJ Joëlle Dechamps","48.8527831","2.3772293","3","2","real_estate_agency point_of_interest establishment",NA
+"ChIJIfkddSxz5kcR6bv3zgPRQR4","Quartier de Charonne","48.8532894","2.3772666",NA,NA,"point_of_interest establishment",NA
+"ChIJ30IpMwZy5kcR4OV01q4Hlcc","Charonne - Keller","48.8530247","2.3770219",NA,NA,"bus_station transit_station point_of_interest establishment",NA
+"ChIJT3Fezupz5kcR0nxPZ_sx34c","Empruntis L'agence Paris 11 Bastille courtier en crédit immobilier","48.8527785","2.3771583","5","17","finance point_of_interest establishment",NA
+"ChIJL0rXzAdy5kcR00DvJ5y_aoQ","Bistro du Commerce","48.8531395","2.3769804","4.3","120","restaurant food point_of_interest establishment","2"
+"ChIJubKE0Qdy5kcRbu1dByCBpVU","Charonne - Keller","48.8533895","2.3774025",NA,NA,"transit_station point_of_interest establishment",NA
+"ChIJ29hAMwZy5kcRsd70WZ3t5ds","Snc Marceau","48.853011","2.3769088","3","1","point_of_interest store establishment",NA
+"ChIJG1d71gdy5kcRetOLUl1maB8","Rollin Charonne","48.8533795","2.377801","5","1","point_of_interest establishment",NA
+"ChIJg2QgMQZy5kcRGEaOmvrbx_k","Harmony Pressing","48.852663","2.3771186","3.7","15","laundry point_of_interest establishment",NA
+"ChIJIb7rMQZy5kcR9jpKmQKdF0w","Fédération des Conseils de Parents d’Elèves","48.852663","2.3771185",NA,NA,"point_of_interest establishment",NA
+"ChIJX5ZmN9lz5kcRDnPjUkFRt0A","Lucid Realities","48.852663","2.3771185","5","1","point_of_interest establishment",NA
+"ChIJ4WQgMQZy5kcRRS1rxwEZeOk","Picard","48.852663","2.3771185","4.4","27","food point_of_interest store establishment",NA
+"ChIJ4ZJqywdy5kcRFtGaMK0mXxk","Nem Star","48.8531926","2.3768938","4.2","57","restaurant food point_of_interest establishment",NA
+"ChIJXURF0Qdy5kcRn0P0CUSAg1U","Decorasol","48.853469","2.377665","4.3","22","home_goods_store point_of_interest store establishment",NA
+"ChIJ-XIM1Ady5kcR67MdBcI8SNg","Waline Alix","48.8534632","2.3776533",NA,NA,"point_of_interest establishment",NA
+"ChIJCboUzgdy5kcRa8PsR7WesoA","Linos Tapis","48.8534177","2.377169",NA,NA,"point_of_interest establishment",NA

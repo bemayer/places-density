@@ -1,0 +1,6 @@
+"Id","Name","Lat","Lng","Price_level","Rating","Nb_Rating","Type"
+"ChIJwzzs-cRt5kcRrEqXWqTrTFs","4 Rue Manin","48.8825653","2.3829258",NA,NA,NA,"route"
+"ChIJjUJgX8Rt5kcRYcpvS77VAdQ","Theater Guignol Anatole - Puppets Buttes Chaumont","48.882102","2.383185",NA,"4.3","23","point_of_interest establishment"
+"ChIJv15n8MRt5kcRc4PSI5e_O7o","Armand Carrel - Mairie du 19e","48.8823933","2.3826827",NA,"4","1","transit_station point_of_interest establishment"
+"ChIJG1on6MRt5kcR9imNEAN40BY","Kaskad Café","48.8826831","2.3829333","2","4.1","382","cafe bar restaurant food point_of_interest establishment"
+"ChIJD7fiBh9u5kcRYJSMaMOCCwQ","Paris","48.856614","2.3522219",NA,NA,NA,"locality political"

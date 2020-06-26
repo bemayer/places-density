@@ -1,0 +1,61 @@
+"Id","Name","Lat","Lng","Rating","Nb_Rating","Type","Price_level"
+"ChIJxXGFXTRu5kcRFckDuYkDbaE","31-29 Rue Tronchet","48.87294","2.3266332",NA,NA,"route",NA
+"ChIJ7asUQTRu5kcRbCIbidnpAmk","Hôtel George Sand","48.8732224","2.3273237","4.3","112","lodging point_of_interest establishment",NA
+"ChIJXXVui8lv5kcR6RuOoH4HTz8","Agence Dynamite","48.8726446","2.3271694","4.2","10","point_of_interest establishment",NA
+"ChIJr7J8RDRu5kcRmHkMta1WXvY","Massimo Dutti","48.8732783","2.3271274","3.9","199","clothing_store point_of_interest store establishment",NA
+"ChIJH3MoHzRu5kcRgBzL2iwCudw","ARMAND THIERY FEMME","48.8729172","2.3272058","4.2","84","jewelry_store point_of_interest clothing_store store establishment",NA
+"ChIJJYxUXTRu5kcRrEPOnFdnpek","La Maroquinerie Parisienne","48.8729915","2.3268595","4.2","259","point_of_interest store establishment",NA
+"ChIJ_6nZZjRu5kcRAPNaAfMhA5E","Assistant Search","48.8727235","2.3268745",NA,NA,"point_of_interest establishment",NA
+"ChIJ61p3FDRu5kcR8YIiKSAjpDc","Magora Productions","48.8726446","2.3271694",NA,NA,"point_of_interest establishment",NA
+"ChIJt9ToZzRu5kcRdRph5_xfUsY","OPTIQUE CLAIRVUE","48.8728422","2.326759","4.7","9","health point_of_interest store establishment",NA
+"ChIJsT0rRTRu5kcRD81_WQvf_Zg","Optimprocess","48.8730302","2.3269897",NA,NA,"point_of_interest establishment",NA
+"ChIJT0afQTRu5kcRJLmTcE23NXg","Docteur Mouna Kanoun-Maincent","48.8729789","2.3271748","4.6","24","dentist health point_of_interest establishment",NA
+"ChIJ_6nZZjRu5kcRHCSRMr771hs","Cie Financiere Gestion Patrimoine","48.8727235","2.3268745",NA,NA,"finance point_of_interest establishment",NA
+"ChIJqYfEsspv5kcRROBAf7o0iJE","Association Nationale Collaborateurs Ministre Parlementaire","48.8728931","2.3268969",NA,NA,"insurance_agency health point_of_interest establishment",NA
+"ChIJm5xCfD5u5kcR2IgvxBHXYvI","Synapsys","48.8729829","2.3275016","4.7","25","point_of_interest establishment",NA
+"ChIJwc_4aTRu5kcRmpOFLqpU6rg","Appartement Londres","48.8729789","2.3271748","3","1","lodging point_of_interest establishment",NA
+"ChIJr0UOaDRu5kcRDwCrw8X0JmQ","Cabinet Bohdanowicz","48.8728931","2.3268969",NA,NA,"accounting finance point_of_interest establishment",NA
+"ChIJDTtA0M5v5kcR1JhUeLmS9ow","Agence Marquise","48.8728931","2.3268969",NA,NA,"point_of_interest establishment",NA
+"ChIJ61p3FDRu5kcRZwMUHkCC6ko","Translang","48.8726446","2.3271694",NA,NA,"point_of_interest establishment",NA
+"ChIJtxWZaDRu5kcRUgnFTFfFYU8","Traditia","48.8727235","2.3268745","1","1","finance point_of_interest establishment",NA
+"ChIJD7fiBh9u5kcRYJSMaMOCCwQ","Paris","48.856614","2.3522219",NA,NA,"locality political",NA
+"ChIJtxWZaDRu5kcR05vs3mTKMIY","Filarmonia","48.8727235","2.3268745",NA,NA,"point_of_interest establishment",NA
+"ChIJd_rsQjRu5kcRHn-iHwlr1WA","Fondation pour le droit continental","48.8730302","2.3269897",NA,NA,"point_of_interest establishment",NA
+"ChIJe5K0QjRu5kcR6fHzst_h0vw","OXUS","48.8730302","2.3269897",NA,NA,"point_of_interest establishment",NA
+"ChIJd_rsQjRu5kcRC0IKXkcjYDo","Jeannin Henri","48.8730302","2.3269897","1","3","lawyer point_of_interest establishment",NA
+"ChIJrS03ZjRu5kcRMyzgr-LzVIg","Maître Laurence Bitouze","48.8727019","2.3268432",NA,NA,"finance point_of_interest establishment",NA
+"ChIJm5xCfD5u5kcRQCLaBTxzF4o","Youand","48.8729913","2.3274413","4","5","point_of_interest establishment",NA
+"ChIJzZqQZjRu5kcRLlaqLjCmtT8","GUTKES AVOCATS","48.8725888","2.3268412","5","1","lawyer finance point_of_interest establishment",NA
+"ChIJVVUZbDRu5kcR6EmfiULHkMQ","Freshservice","48.8725652","2.3272068",NA,NA,"point_of_interest establishment",NA
+"ChIJ5fUjbDRu5kcRvhnPQpiut44","GM Dis","48.8725652","2.3272068",NA,NA,"supermarket grocery_or_supermarket food point_of_interest store establishment",NA
+"ChIJ8yEVT3Bu5kcRyXEcrXJQ3P0","Serensia","48.8729719","2.3275256",NA,NA,"point_of_interest establishment",NA
+"ChIJfal-ZTRu5kcRScF4DHsdjBY","Post Office","48.872692","2.326742","2.5","31","post_office finance point_of_interest establishment",NA
+"ChIJAQBUaTRu5kcRMXreJvWa6UU","Yem'a Paris","48.8725889","2.3274051","4.5","282","restaurant food point_of_interest establishment","1"
+"ChIJ1ZmcbDRu5kcRWudinT5s1qI","Teemo","48.8725212","2.3272767","5","1","point_of_interest establishment",NA
+"ChIJAQBUaTRu5kcRY9VRxaSRhRg","Muffin Corner","48.8725506","2.3273863","4","32","restaurant food point_of_interest establishment",NA
+"ChIJzZqQZjRu5kcR-eNoFiuFK7o","WEILL Vignon","48.8726216","2.3267161","4.2","5","point_of_interest clothing_store store establishment",NA
+"ChIJ6z1YbzRu5kcRdBub23dFQM0","Avocats anslaw","48.8725932","2.3267919",NA,NA,"lawyer point_of_interest establishment",NA
+"ChIJ6z1YbzRu5kcRqIrm6oIo7_k","Avocat sociétés Paris","48.8725932","2.3267919",NA,NA,"lawyer point_of_interest establishment",NA
+"ChIJ8bHj82Jv5kcRZbKbnUVT4Q4","Franprix","48.87253","2.32738","3.5","59","supermarket grocery_or_supermarket restaurant food point_of_interest store establishment",NA
+"ChIJr7J8RDRu5kcRGsl_1Wq2wrQ","Vilain Odile","48.8732457","2.3271339","2","1","health point_of_interest establishment",NA
+"ChIJqWCuFDRu5kcR2laXju2Ecfo","A.P.C.S./Association pour la Promotion d","48.8726288","2.3276782",NA,NA,"health point_of_interest establishment",NA
+"ChIJuZJnQDRu5kcR8UAzdOWaJ58","Du Pareil Au Même","48.8730284","2.3275846","2.5","4","shoe_store point_of_interest clothing_store store establishment",NA
+"ChIJyy6mGjRu5kcRCbax9ozgLEg","Kalitess","48.8727244","2.3272788","3.2","24","point_of_interest establishment",NA
+"ChIJd_rsQjRu5kcRlytyAoy3nv8","IN CAMPUS","48.8730302","2.3269897",NA,NA,"point_of_interest establishment",NA
+"ChIJ_6nZZjRu5kcRsMvAO9VfSQU","Natalys","48.8727022","2.3267371","3.8","25","furniture_store home_goods_store point_of_interest clothing_store store establishment",NA
+"ChIJrS03ZjRu5kcRwGxAX88RG2o","Carmine Capital","48.8727587","2.3267827",NA,NA,"finance point_of_interest establishment",NA
+"ChIJ__9PoJJt5kcR7pnkRwWVXGg","Chalenges Publics","48.8729829","2.3275016",NA,NA,"point_of_interest establishment",NA
+"ChIJY4uMbDRu5kcRRCtucALWgKg","Monica LEDESMA","48.8725506","2.3273863",NA,NA,"point_of_interest establishment",NA
+"ChIJFUx-ZTRu5kcR3toBdFpB4e4","Toit et Joie","48.872466","2.3267932","1","1","real_estate_agency point_of_interest establishment",NA
+"ChIJv7v7EjRu5kcRlwhNntBZKco","Andrea Media","48.8724063","2.3272816","5","1","point_of_interest establishment",NA
+"ChIJv7v7EjRu5kcR8rnw1q-M-2I","Catherine MARION, Psychologue, Psychanalyste, EMDR, Paris","48.8724063","2.3272816","5","1","health point_of_interest establishment",NA
+"ChIJ7asUQTRu5kcR9W-nub3zfhA","Hôtel de Florence","48.8732224","2.3273237",NA,NA,"lodging point_of_interest establishment",NA
+"ChIJv7v7EjRu5kcRay94xAKjEKM","Who Search Today ?","48.8724063","2.3272816",NA,NA,"point_of_interest establishment",NA
+"ChIJv7v7EjRu5kcR6sBx001W4Fg","Psyactivea Formation","48.8724063","2.3272816",NA,NA,"health point_of_interest establishment",NA
+"ChIJKd5S6QVv5kcRBCtXj8lmHSU","Broutin Stephane","48.872406","2.327282",NA,NA,"point_of_interest establishment",NA
+"ChIJRZcyWzRu5kcR_GH58f8kimI","Un Jour Ailleurs","48.873237","2.3268183","4.4","12","point_of_interest clothing_store store establishment",NA
+"ChIJX0XhQjRu5kcRlwOQjlauV1U","Café Coton","48.8730728","2.3268847","3.9","48","clothing_store point_of_interest store establishment",NA
+"ChIJ61p3FDRu5kcRTk1VDilILfY","Voyage Olympia","48.8726446","2.3271694","4","1","travel_agency point_of_interest establishment",NA
+"ChIJXVKbEzRu5kcR2duRVb4z5pY","3mundi","48.8725652","2.3272068",NA,NA,"travel_agency point_of_interest establishment",NA
+"ChIJzZqQZjRu5kcRvUmoFcIdpsc","Arthur & Fox","48.8725888","2.3268412","3.1","9","point_of_interest clothing_store store establishment",NA
+"ChIJ01_cEzRu5kcRcc5-JGzNeoM","A la Carte","48.8725463","2.3276372","3.8","6","point_of_interest establishment",NA

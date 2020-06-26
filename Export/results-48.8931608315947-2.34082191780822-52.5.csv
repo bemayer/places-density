@@ -1,0 +1,61 @@
+"Id","Name","Lat","Lng","Rating","Nb_Rating","Type","Price_level"
+"ChIJkdMZPllu5kcR7itGsruezYU","108-110 Rue Ordener","48.8930683","2.3405195",NA,NA,"route",NA
+"ChIJPb6tOVlu5kcRvuC4zxrXAJc","Hôtel Les Jardins de Montmartre","48.8928638","2.341124","3.8","350","lodging point_of_interest establishment",NA
+"ChIJk7zJPllu5kcRbgVVRXCHgf0","Lemonnier Création","48.8932467","2.3407056",NA,NA,"point_of_interest establishment",NA
+"ChIJDSskFFlu5kcRYPdKUC9SS24","Le Fil D Ariane","48.8932307","2.3405425",NA,NA,"point_of_interest establishment",NA
+"ChIJq1-3OVlu5kcR-0lKHTJ5l1o","Jeff de Bruges","48.8931484","2.3410409","4.2","14","food point_of_interest store establishment",NA
+"ChIJGbBhOllu5kcRABxQF1XX2e4","Association A La Pulpe","48.893161","2.3410502",NA,NA,"point_of_interest establishment",NA
+"ChIJ77fkOVlu5kcR55RYqNt9j74","Ricordel Romain","48.893161","2.3410502",NA,NA,"point_of_interest establishment",NA
+"ChIJnRm0tF5u5kcRkfu0siOSaWE","Acopa","48.893323","2.340756","3.8","10","real_estate_agency point_of_interest establishment",NA
+"ChIJw2KRPVlu5kcRLwUu5wYQvgc","TUI STORE","48.8932307","2.3405425","3.7","15","travel_agency park point_of_interest establishment",NA
+"ChIJw2KRPVlu5kcR3lrJ6IwLRrU","SFR","48.8932","2.3405145","3.3","142","point_of_interest store establishment",NA
+"ChIJ44IyQ15u5kcR3TX-pT6AFiA","ACQO Paris","48.8929358","2.3406771",NA,NA,"point_of_interest store establishment",NA
+"ChIJ6WB2P1lu5kcR_ps8_pASj3Q","agence Xavier Castex Assurance","48.8928696","2.3406405","5","4","insurance_agency point_of_interest establishment",NA
+"ChIJq5YkN1lu5kcRirr0n_ULCyc","Ouhioun Paul","48.8931355","2.3413338","3.3","7","doctor health point_of_interest establishment",NA
+"ChIJ___TMFlu5kcR547YEj8ZZks","smartprod1","48.8931355","2.3413338",NA,NA,"point_of_interest establishment",NA
+"ChIJ6WB2P1lu5kcRwgKRzByFbcg","CPI Courtage Tibi Dov - Prêt et crédit Immobilier - Courtier Crédit","48.8929112","2.3403694","5","5","finance point_of_interest establishment",NA
+"ChIJl95QPVlu5kcR7Fq87jbGHRI","Burger Queen","48.8934301","2.340391","2.3","3","meal_delivery food point_of_interest establishment",NA
+"ChIJqzyk2k1u5kcR3kQeKanCetg","Chicken Corner Paris","48.8934423","2.3404019","2.3","54","meal_delivery restaurant food point_of_interest establishment",NA
+"ChIJBZs7FFlu5kcRTYPGvHB5fGQ","MMA PARIS ORDENER","48.8929122","2.3407","2.7","20","insurance_agency point_of_interest establishment",NA
+"ChIJB4EJZ15u5kcRtgJH87gxVgo","Professeur Jean-Pierre Aubert","48.8928776","2.3409447","4.5","35","doctor health point_of_interest establishment",NA
+"ChIJD7fiBh9u5kcRYJSMaMOCCwQ","Paris","48.856614","2.3522219",NA,NA,"locality political",NA
+"ChIJq5YkN1lu5kcRSQA9ip-GHvk","Optician Alain Afflelou Paris 18","48.8930929","2.3413123","4.8","20","health point_of_interest store establishment",NA
+"ChIJ8dAwR1lu5kcRoMF_rXcFJgw","Hello Clean","48.8926912","2.3409235",NA,NA,"point_of_interest establishment",NA
+"ChIJ-ycjFFlu5kcRSDO-fMunE4w","Altermundi Ordener - Paris 18","48.8929543","2.3407756","4.6","19","store point_of_interest establishment",NA
+"ChIJKZx3FFlu5kcRck0S0tiL6r8","Velib Station","48.8930259","2.3401261",NA,NA,"point_of_interest establishment",NA
+"ChIJxb-tOVlu5kcRs293pECMHV8","Camaïeu","48.8928622","2.3410468","3.6","66","point_of_interest clothing_store store establishment",NA
+"ChIJq5YkN1lu5kcRdeaYs2NIfmo","Dentist - Dr. Valérie Cayatte","48.8931355","2.3413338","4.8","8","dentist health point_of_interest establishment",NA
+"ChIJJyg4Nllu5kcRiBLisyjx9nY","Opticien Générale d'Optique PARIS ORDENER","48.8928714","2.3413786","4.6","9","health point_of_interest store establishment",NA
+"ChIJ_WfHPllu5kcRXOeuxo8FtAg","Immobliere Acopa","48.8933227","2.3407555",NA,NA,"point_of_interest establishment",NA
+"ChIJk7zJPllu5kcRpwfAsu8c7WA","Rapin Stephanie","48.8933227","2.3407555",NA,NA,"point_of_interest establishment",NA
+"ChIJBZs7FFlu5kcR3CukoriYPZ0","Crédit Agricole de Paris Ordener","48.8929112","2.3403694","2.4","25","bank atm finance insurance_agency point_of_interest establishment",NA
+"ChIJBZs7FFlu5kcRH4cGWPuhOm4","Constantin Dominique","48.8928696","2.3406405",NA,NA,"point_of_interest establishment",NA
+"ChIJN0KhEVlu5kcRKL4xx5q8r8M","Audioprothésiste AUDIO2000 - Nathaniel Rameau - Audition Rameau","48.8932323","2.3405578","4.7","28","health point_of_interest store establishment",NA
+"ChIJkwCaR61v5kcREvlQTab5kB0","Le gerber d'or","48.8931189","2.3408848",NA,NA,"point_of_interest establishment",NA
+"ChIJp9SAPllu5kcRhEzVEPtNo34","Mairie de Paris (Belib) Charging Station","48.89311","2.34066",NA,NA,"point_of_interest establishment",NA
+"ChIJAQBQPFlu5kcRsCugcfeT9Y4","Alcorta forging group","48.8932467","2.3407056",NA,NA,"point_of_interest establishment",NA
+"ChIJdc5Ttclv5kcRCeFdTjdNB24","Le gerber d'or","48.8933007","2.3409095","5","2","bakery food point_of_interest store establishment",NA
+"ChIJw6zyPFlu5kcRlJuAZIfqUaI","ABL Metal","48.8933227","2.3407555",NA,NA,"point_of_interest establishment",NA
+"ChIJk7zJPllu5kcRlp_v-idSHFQ","Maumon Sebastien","48.8933227","2.3407555",NA,NA,"point_of_interest establishment",NA
+"ChIJc5qWPVlu5kcRrEmIAzL5dHo","Marmara Voyages","48.8932323","2.3405578",NA,NA,"point_of_interest establishment",NA
+"ChIJc5qWPVlu5kcRTr_x3wTq_e0","Time Ordener","48.8932323","2.3405578",NA,NA,"point_of_interest establishment",NA
+"ChIJyxWd3Vhu5kcRSpugTGodn0Q","Cabinet Médical Ruisseau des Noirs","48.8929331","2.3409593",NA,NA,"health point_of_interest establishment",NA
+"ChIJg2-30htu5kcRV0p6FHmBZcE","O2 Care Services - Household Aid À Domicile Et Garde D'enfants","48.8929376","2.3409736","3.3","12","point_of_interest establishment","2"
+"ChIJne7GFVlu5kcRHcOI3y0hyuI","Duhesme - le Ruisseau","48.8930705","2.340354",NA,NA,"transit_station point_of_interest establishment",NA
+"ChIJf5s7FFlu5kcR9oX4MaJW9D0","Le Louer Bruno","48.8929122","2.3407",NA,NA,"point_of_interest establishment",NA
+"ChIJ30Xe9Fpv5kcR4vo5FcDf6T4","depann auto 75018","48.8930793","2.3411692","4","4","point_of_interest establishment",NA
+"ChIJ77fkOVlu5kcRon-K_xbnij8","CPH Immobilier Paris 18","48.8930793","2.3411692","4.4","23","real_estate_agency point_of_interest establishment",NA
+"ChIJWwzqOFlu5kcR9TX8icUJ0yw","Duhesme - le Ruisseau","48.8929204","2.3410924",NA,NA,"bus_station transit_station point_of_interest establishment",NA
+"ChIJBZs7FFlu5kcR1mPpXYAfMfs","A vous de voir - Djas Optique","48.8928696","2.3406405","4.7","14","health point_of_interest store establishment",NA
+"ChIJW3tUIZpv5kcR4GR_zKsSOIs","Isabelle BERNIER - Sophrologue","48.8930658","2.3413039","5","4","health point_of_interest establishment",NA
+"ChIJr2HaQnxu5kcRQemI6oxWIN8","Yomo Yossey","48.8931355","2.3413338",NA,NA,"lawyer finance point_of_interest establishment",NA
+"ChIJr2HaQnxu5kcRlVQxOAtM2JY","Ondze Raymond","48.8931355","2.3413338","5","1","lawyer point_of_interest establishment",NA
+"ChIJteryF1lu5kcRQWgYwpzHsCQ","Le Safari","48.893401","2.340387","4.4","461","restaurant food point_of_interest establishment","1"
+"ChIJsReVN1lu5kcRj6tAxgBPn-A","Mutuelle Bleue","48.8928086","2.3411739","3","2","insurance_agency health point_of_interest establishment",NA
+"ChIJL4zNbwdv5kcR0gtRdxdCMVI","Chez Mariam","48.8934301","2.340391","4.3","10","restaurant food point_of_interest establishment",NA
+"ChIJteryF1lu5kcRkw27ViJeoJs","Saintpère Sylvain","48.8934301","2.340391",NA,NA,"point_of_interest establishment",NA
+"ChIJM2mLF1lu5kcRc0-FHv4Bio4","Le Quiz","48.8934301","2.340391","3.5","2","restaurant food point_of_interest establishment",NA
+"ChIJteryF1lu5kcRlMwrnuEyCA8","Richer Charles","48.8934301","2.340391",NA,NA,"point_of_interest establishment",NA
+"ChIJY7Wkallu5kcRi9PlL5tjCpo","Les Planeurs du CVVE Bailleau","48.8927657","2.3404026",NA,NA,"point_of_interest establishment",NA
+"ChIJdQv-N1lu5kcRWsVihZ-UDwk","E.j.a","48.8928086","2.3411739",NA,NA,"point_of_interest establishment",NA
+"ChIJdQv-N1lu5kcRcJI3hDkvKQk","FLOOR26 ©","48.8928086","2.3411739",NA,NA,"point_of_interest establishment",NA

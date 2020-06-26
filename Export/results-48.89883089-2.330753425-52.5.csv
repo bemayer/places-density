@@ -1,0 +1,5 @@
+"Id","Name","Lat","Lng","Rating","Nb_Rating","Type"
+"ChIJB456Kf9u5kcRB9utv2pxP0o","Rue Henri Huchard","48.8991133","2.3307743",NA,NA,"route"
+"ChIJ-9hGVcBv5kcRQL2N9oUO0oQ","Nursery Huchard - La Maison Bleue","48.8989927","2.330374",NA,NA,"point_of_interest establishment"
+"ChIJe_AtJP9u5kcRMNJMYE7FZrs","Hôpital Bichat","48.8990084","2.3302022","2.9","8","transit_station point_of_interest establishment"
+"ChIJD7fiBh9u5kcRYJSMaMOCCwQ","Paris","48.856614","2.3522219",NA,NA,"locality political"

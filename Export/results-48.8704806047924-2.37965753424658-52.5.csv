@@ -1,0 +1,61 @@
+"Id","Name","Lat","Lng","Rating","Nb_Rating","Type","Price_level"
+"ChIJ3xnG_OVt5kcR5vUmII9ne6k","Boulevard de Belleville","48.8704696","2.3788823",NA,NA,"route",NA
+"ChIJsYun_uVt5kcRA2RYGfxyRZw","New Belleville Medical imaging center","48.8704367","2.3792066","2.9","24","doctor health point_of_interest establishment",NA
+"ChIJsYun_uVt5kcRtbRTqnuKJKI","Studio Neuf Scm","48.8704553","2.3791942",NA,NA,"finance point_of_interest establishment",NA
+"ChIJa7uTTe9t5kcRoiP_nDUOQGg","Enfin Bref Production","48.8703509","2.3801156",NA,NA,"point_of_interest establishment",NA
+"ChIJq6pGVO9t5kcRuMUtfg3MM9U","Tapis Volant","48.8703963","2.3796223","2.5","8","travel_agency point_of_interest establishment",NA
+"ChIJ_cy6Ve9t5kcRrrKZYTUiyi4","Mondial Phone","48.8703379","2.3795955","3.7","10","point_of_interest store establishment",NA
+"ChIJbVgWr9pt5kcRP_lJ_Zhkw54","Lucette.","48.8704553","2.3791942",NA,NA,"point_of_interest establishment",NA
+"ChIJBz4kJe9t5kcRoGKB1YEwWV0","Vidéadoc","48.8704585","2.3792112","5","1","point_of_interest establishment",NA
+"ChIJqz4FLRBu5kcRQXq7e73iEZ4","Yodog","48.8704553","2.3791942","4.2","5","point_of_interest establishment",NA
+"ChIJvx7__uVt5kcR7AqP_3rHD-0","Salceda – Carballeda","48.8704553","2.3791942","5","1","point_of_interest establishment",NA
+"ChIJvx7__uVt5kcRjcPj7B97zjY","Atelier Mad","48.8704553","2.3791942",NA,NA,"point_of_interest establishment",NA
+"ChIJvx7__uVt5kcRpTTJiXB7_OQ","Jardins et Collections","48.8704553","2.3791942","5","40","florist point_of_interest store establishment",NA
+"ChIJvx7__uVt5kcRe7t7EwM_J18","Playground Atelier D Architectures","48.8704553","2.3791942",NA,NA,"point_of_interest establishment",NA
+"ChIJmeuUTe9t5kcRU8J_TEZdAlc","Michel Guthmann Architecture Urbanisme","48.8703202","2.3801959","5","3","point_of_interest establishment",NA
+"ChIJmeuUTe9t5kcRPzW_sFK5dGI","LEMÉROU ARCHITECTURE","48.8703202","2.3801959",NA,NA,"point_of_interest establishment",NA
+"ChIJmeuUTe9t5kcRZyQZ42Ubmgo","Boulanger Jean-Paul","48.8703201","2.3801959",NA,NA,"point_of_interest establishment",NA
+"ChIJmeuUTe9t5kcRJFkm7cxlK6M","Vicarini Charles","48.8703201","2.3801959",NA,NA,"point_of_interest establishment",NA
+"ChIJWznyTe9t5kcRUnN9bBJeY4E","Clandestine Films","48.8703202","2.3801959",NA,NA,"point_of_interest establishment",NA
+"ChIJOxjbTe9t5kcRZ8ViONUiW9k","ALBAN GERVAIS","48.8703202","2.3801959",NA,NA,"point_of_interest establishment",NA
+"ChIJD7fiBh9u5kcRYJSMaMOCCwQ","Paris","48.856614","2.3522219",NA,NA,"locality political",NA
+"ChIJMRjbTe9t5kcRrBxucUrRWJs","Hervé Gaillaguet","48.8703201","2.3801959",NA,NA,"point_of_interest establishment",NA
+"ChIJMRjbTe9t5kcR_87-Yu4Ulsk","Caliko","48.8703201","2.3801959",NA,NA,"point_of_interest establishment",NA
+"ChIJMRjbTe9t5kcRxIGyWiB7qIM","Colboc Benjamin","48.8703201","2.3801959",NA,NA,"point_of_interest establishment",NA
+"ChIJyz-B2qJt5kcRFKhEdhA9nWA","Amélie Lebleu","48.8703201","2.3801959",NA,NA,"point_of_interest establishment",NA
+"ChIJhe67xt9t5kcRGMSNZec019k","BURO-GDS, Visual Strategists","48.8703252","2.3802099",NA,NA,"point_of_interest establishment",NA
+"ChIJ4-hYKwPsC0ERA_jTB4gPNOk","Agence Engasser & Associés","48.8703052","2.3801919","3.3","3","point_of_interest establishment",NA
+"ChIJwWkOzuht5kcRQFEX3T5ku4k","Nivet Soline","48.8703252","2.3802099",NA,NA,"point_of_interest establishment",NA
+"ChIJ4ejITO9t5kcRm2DQ4iq9I7k","Le Colorium","48.8705751","2.3803282","3.4","5","laundry point_of_interest establishment",NA
+"ChIJvx7__uVt5kcRd_gs30GUFfI","Menahem Sim'ha","48.8704553","2.3791942",NA,NA,"point_of_interest establishment",NA
+"ChIJDZ-m_-Vt5kcR13pOMKLuivk","turchetti d'aragon","48.8704553","2.3791942",NA,NA,"point_of_interest establishment",NA
+"ChIJj_UtV-9t5kcRuu2499T0-Kg","Grande Pharmacie","48.870132","2.379624","4","19","pharmacy health point_of_interest store establishment",NA
+"ChIJmeuUTe9t5kcRQhN7Qcx8kf4","Ateliers Béné","48.87032","2.380196","5","1","furniture_store home_goods_store point_of_interest store establishment",NA
+"ChIJY7Q3Vu9t5kcRLbFV5G6dSNU","Couronnes Voyages","48.8703963","2.3796223",NA,NA,"travel_agency point_of_interest establishment",NA
+"ChIJ8SQ3Vu9t5kcRRAXofQ9E7Ns","Etablissements Claunat","48.8703963","2.3796223","4.3","6","point_of_interest store establishment",NA
+"ChIJqeHo5IbVwkcRIqc7JV5hPrk","bonjour les architectes !","48.8704733","2.3792348",NA,NA,"point_of_interest establishment",NA
+"ChIJ0XrtU-9t5kcR_q3pKMzJ3xI","taher offic","48.8703966","2.3796625",NA,NA,"point_of_interest establishment",NA
+"ChIJq6pGVO9t5kcRa-OEZ25QGfM","Rayane Phone","48.8703963","2.3796223",NA,NA,"point_of_interest establishment",NA
+"ChIJ_cy6Ve9t5kcRGbgeYXqo9cA","Benmaamar Amrane","48.8703963","2.3796223",NA,NA,"point_of_interest establishment",NA
+"ChIJZV1-Te9t5kcRLxqCBepRRVU","Résidence sociale Bisson","48.8705406","2.38025","3.5","13","point_of_interest establishment",NA
+"ChIJL9_MU-9t5kcRemDTeTkxp6I","Azougrou Gbogou Laurentine","48.8704409","2.379935",NA,NA,"point_of_interest establishment",NA
+"ChIJ_fnMU-9t5kcR9n10vKSw1jk","Ghanem Ziade Afane","48.8704409","2.379935",NA,NA,"point_of_interest establishment",NA
+"ChIJ3eBrHqtt5kcR1l6bzaLKBIE","Les Délices de Belleville","48.8703223","2.3793963","3.9","579","point_of_interest establishment",NA
+"ChIJq6r-Ve9t5kcRXme9rlK-FF4","CHEZ RENE ET GABIN","48.8703223","2.3793963","4.1","159","restaurant food point_of_interest establishment",NA
+"ChIJgd8RVu9t5kcRYm0mLIWqfv4","Pizzeria Tripletta","48.8702691","2.3794311","4","659","restaurant food point_of_interest establishment","2"
+"ChIJR1P-Ve9t5kcRJCJXn_oUwoA","Boucherie 2 MS","48.8703266","2.3793463","4.5","2","food point_of_interest store establishment",NA
+"ChIJUXNs0jdt5kcRUY-py4noccU","Mon chat ronronne, comportementaliste félin spécialiste du chat et garde chat (Paris et région parisienne)","48.8701706","2.3796777","5","9","point_of_interest establishment",NA
+"ChIJp-uQUe9t5kcRkp-74oyhgkc","BIOGROUP - Laboratoire Couronnes","48.8702151","2.379937","3.4","20","health point_of_interest establishment",NA
+"ChIJ06-0ZWtt5kcR_J4sHXcAftc","Revivre","48.8704553","2.3791942","4.5","2","point_of_interest establishment",NA
+"ChIJEWMFUu9t5kcRWxJdrYV9eAI","Lucas Penka Sylivie Liliane","48.8701754","2.3798456","3","1","health point_of_interest establishment",NA
+"ChIJ3YRx-OVt5kcRU2gfIKpuWu4","Ben Jazia Abdelmajid","48.8701754","2.3798456","5","1","doctor health point_of_interest establishment",NA
+"ChIJmeuUTe9t5kcRPX_o8r67Zss","atelier ChH Tachon","48.8703252","2.3802099",NA,NA,"general_contractor point_of_interest establishment",NA
+"ChIJOxjbTe9t5kcR5I4mBaT5_Nw","Undr","48.8703202","2.3801959",NA,NA,"point_of_interest establishment",NA
+"ChIJAQAQi_ht5kcRgkybbbzYXik","Macula -","48.8703202","2.3801959",NA,NA,"point_of_interest establishment",NA
+"ChIJlZPXshRt5kcRvlRuRTCglWM","Teslart location","48.8703201","2.3801959",NA,NA,"point_of_interest establishment",NA
+"ChIJMRjbTe9t5kcRIDyRHrv2JB8","Sylva Conseil","48.8703201","2.3801959",NA,NA,"point_of_interest establishment",NA
+"ChIJMRjbTe9t5kcRNt2vGAe9vrY","Quitter l’autoroute","48.8703201","2.3801959",NA,NA,"point_of_interest establishment",NA
+"ChIJMRjbTe9t5kcRR7FdJdNaXRQ","COSA Colboc Sachet architectures","48.8703201","2.3801959",NA,NA,"point_of_interest establishment",NA
+"ChIJMRjbTe9t5kcRKluctwDo5Tk","Hatteea James Leila","48.8703201","2.3801959",NA,NA,"point_of_interest establishment",NA
+"ChIJMRjbTe9t5kcRLMHolYtGHZc","Engel Rémy","48.8703201","2.3801959",NA,NA,"point_of_interest establishment",NA
+"ChIJmeuUTe9t5kcRppA52pvPwfI","Nestor Scm","48.8703201","2.3801959",NA,NA,"finance point_of_interest establishment",NA

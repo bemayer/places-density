@@ -1,0 +1,8 @@
+"Id","Name","Lat","Lng","Price_level","Rating","Nb_Rating","Type"
+"ChIJ6Yc-jDNs5kcRCJdGX-K8B0o","Avenue de la Porte de la Villette","48.8992328","2.3869174",NA,NA,NA,"route"
+"ChIJOZD8jDNs5kcRWxosrUONJQg","l'Un Est l'Autre","48.89905","2.3864713","1","4.3","6","point_of_interest establishment"
+"ChIJXy5F8zNs5kcR4EG2ITmEGLA","La plage","48.899543","2.386724",NA,"4","369","point_of_interest establishment"
+"ChIJOZD8jDNs5kcRwpHUFnFqAc0","La Chorba","48.8995099","2.3858868",NA,"4.1","19","food point_of_interest establishment"
+"ChIJa40X8jNs5kcRJHS-76AV3OA","Les Restaurants Du Coeur","48.8991441","2.386577","1","4.2","61","restaurant food point_of_interest establishment"
+"ChIJk0zeNztt5kcR1EgvGszq5rg","Mosquée","48.8994807","2.3856207",NA,"2.3","3","mosque place_of_worship point_of_interest establishment"
+"ChIJD7fiBh9u5kcRYJSMaMOCCwQ","Paris","48.856614","2.3522219",NA,NA,NA,"locality political"

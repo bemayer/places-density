@@ -1,0 +1,8 @@
+"Id","Name","Lat","Lng","Rating","Nb_Rating","Type"
+"ChIJy15TtIFu5kcREzwWHLO3ymI","1 Boulevards des Maréchaux","48.8987148","2.3689047",NA,NA,"route"
+"ChIJzQy0NIBu5kcRS-Hcbin58hw","Station Vélib' Porte d'Aubervilliers","48.8985129","2.3693521","2","1","point_of_interest establishment"
+"ChIJ3eL3NoBu5kcRaylUfnAa1x0","Point.P - Paris 18","48.8980567","2.369366","3.8","16","home_goods_store point_of_interest store establishment"
+"ChIJm1kTtIFu5kcRbfD6_QQwUMU","Porte d'Aubervilliers","48.8986535","2.368852","3.7","14","transit_station point_of_interest establishment"
+"ChIJjSmTtYFu5kcR8By8fCPFk3Y","Porte d'Aubervilliers","48.898766","2.369015",NA,NA,"transit_station point_of_interest establishment"
+"ChIJ9_LatYFu5kcRsCx1FtEUIoA","Cafē Cigogne","48.8988188","2.3689677",NA,NA,"point_of_interest establishment"
+"ChIJD7fiBh9u5kcRYJSMaMOCCwQ","Paris","48.856614","2.3522219",NA,NA,"locality political"

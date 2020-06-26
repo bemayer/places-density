@@ -1,0 +1,8 @@
+"Id","Name","Lat","Lng","Price_level","Rating","Nb_Rating","Type"
+"ChIJe_8lhTNs5kcRkXfOaZLnI6g","75 Avenue de la Porte de la Villette","48.8986553","2.3867491",NA,NA,NA,"route"
+"ChIJOZD8jDNs5kcRWxosrUONJQg","l'Un Est l'Autre","48.89905","2.3864713","1","4.3","6","point_of_interest establishment"
+"ChIJgSvfmzNs5kcRwi77QpSf-QE","Station Vélib'","48.898591","2.386333",NA,"2","1","point_of_interest establishment"
+"ChIJ80KnmjNs5kcRifFARTMtKbk","Porte de la Villette","48.898796","2.386613",NA,NA,NA,"bus_station transit_station point_of_interest establishment"
+"ChIJ9V8tjjNs5kcRIE7UU2a-IZk","Toilettes publiques","48.8989616","2.3867506",NA,NA,NA,"point_of_interest establishment"
+"ChIJa40X8jNs5kcRJHS-76AV3OA","Les Restaurants Du Coeur","48.8991441","2.386577","1","4.2","61","restaurant food point_of_interest establishment"
+"ChIJD7fiBh9u5kcRYJSMaMOCCwQ","Paris","48.856614","2.3522219",NA,NA,NA,"locality political"

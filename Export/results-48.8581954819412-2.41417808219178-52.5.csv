@@ -1,0 +1,6 @@
+"Id","Name","Lat","Lng","Rating","Nb_Rating","Type"
+"ChIJy30hPH9t5kcREm5T2jodIIc","Boulevard Périphérique","48.8587928","2.4141196",NA,NA,"route"
+"ChIJn5DBHn9t5kcRVuhPC156EB0","Edouard Vaillant","48.8583365","2.4146725",NA,NA,"transit_station point_of_interest establishment"
+"ChIJo6VBHH9t5kcRF023a9hrNqQ","Macif Siege Social","48.8581569","2.4147684","1","5","point_of_interest establishment"
+"ChIJ8Z-2GH9t5kcRyQjntWcCJdg","Edouard Vaillant","48.8585167","2.4145853",NA,NA,"bus_station transit_station point_of_interest establishment"
+"ChIJD7fiBh9u5kcRYJSMaMOCCwQ","Paris","48.856614","2.3522219",NA,NA,"locality political"

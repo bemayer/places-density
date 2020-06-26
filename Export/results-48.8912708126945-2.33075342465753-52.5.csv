@@ -1,0 +1,34 @@
+"Id","Name","Lat","Lng","Rating","Nb_Rating","Type","Price_level"
+"ChIJdYpRUVFu5kcR9YSXjrvR5fI","31-25 Rue Joseph de Maistre","48.8914082","2.3308926",NA,NA,"route",NA
+"ChIJo-RzRVFu5kcRP_vzhV1XxhI","Auto Moto Ecole Carpeaux","48.891101","2.331308","4.2","152","point_of_interest establishment",NA
+"ChIJI2XwWlFu5kcRijKM1wkRdi8","Aux Bouches à Oreilles","48.8911469","2.3310823","3","7","meal_takeaway bar restaurant food point_of_interest store establishment",NA
+"ChIJZR4qWFFu5kcRxIWs9IVT2fs","Shimmura Takuji","48.8911245","2.33062","4","1","point_of_interest establishment",NA
+"ChIJ3cGnVlFu5kcR4medCGYYURY","l'association Joseph de MAISTRE","48.8914347","2.3307942",NA,NA,"point_of_interest establishment",NA
+"ChIJ8aoaUFFu5kcR_BLoh0HmAQg","AMC CARPEAUX","48.891158","2.331128",NA,NA,"point_of_interest establishment",NA
+"ChIJT5x641Nu5kcRgAyWunzO_Pk","2b3e","48.8909971","2.3303013",NA,NA,"point_of_interest establishment",NA
+"ChIJy9n74lNu5kcR12Q_r66YKck","Hourcade Julien","48.8909971","2.3303013",NA,NA,"point_of_interest establishment",NA
+"ChIJAQD84lNu5kcRyadbxNwym0g","AMC Europe","48.8909971","2.3303013",NA,NA,"point_of_interest establishment",NA
+"ChIJAQD84lNu5kcRIEEili64wCk","Le Raj's palace restaurant Indien","48.8909971","2.3303013","4.7","157","restaurant meal_takeaway food point_of_interest establishment",NA
+"ChIJC3lWWlFu5kcR0csgjmA-kyE","Malette Christian","48.8908485","2.3308384",NA,NA,"point_of_interest establishment",NA
+"ChIJq6r6W1Fu5kcRrzNz7wx4YFU","Stéphane Plaza Immobilier Paris 18 Lamarck","48.8908485","2.3308384","5","38","real_estate_agency point_of_interest establishment",NA
+"ChIJc1lwWVFu5kcRbWGbpOCcDfY","Ô Vietnam","48.8908378","2.3309157","4.1","7","restaurant food point_of_interest establishment",NA
+"ChIJ0xbhU1Fu5kcRVoOhnyijHAg","Central Dupon Images","48.8913685","2.3309814","4.2","23","point_of_interest establishment",NA
+"ChIJo-RzRVFu5kcR_lJIhnSOBvE","Cheeeeese","48.8911461","2.331322","4","4","point_of_interest establishment",NA
+"ChIJq_z8eT5v5kcRH9DhsfAENo8","Luke’s apartment","48.8912012","2.3307523",NA,NA,"lodging point_of_interest establishment",NA
+"ChIJ58HVVlFu5kcRIuCGk2kA7Zw","Hôpital Bretonneau","48.8912792","2.3308728",NA,NA,"transit_station point_of_interest establishment",NA
+"ChIJZ4umVlFu5kcRNJSWaV4weVU","Ville De Paris Primary School De Garcons","48.8913914","2.3307784","1","1","school point_of_interest establishment",NA
+"ChIJMckdWlFu5kcRV8_m8bXosqc","Aux Délices Lamarck","48.8910691","2.3308218","4.1","26","bakery food point_of_interest store establishment",NA
+"ChIJD7fiBh9u5kcRYJSMaMOCCwQ","Paris","48.856614","2.3522219",NA,NA,"locality political",NA
+"ChIJ0xbhU1Fu5kcRu4S7UVvxD7s","De Brus Hervé","48.8913141","2.3310939",NA,NA,"point_of_interest establishment",NA
+"ChIJmScn5C1v5kcRPs3e5dseYF0","Aux délices du Bénin","48.8911469","2.3310823","3.6","74","restaurant food point_of_interest establishment",NA
+"ChIJqdehWlFu5kcRbjVIoyDl6qE","Restaurant Diyar","48.8911073","2.3310801","4","31","restaurant food point_of_interest establishment","1"
+"ChIJZfRiWFFu5kcRyewpDRvRoDA","VANESSA KOUTCHINSKY","48.8909789","2.3305074",NA,NA,"point_of_interest establishment",NA
+"ChIJbzBgWFFu5kcRNonOuCd0pzE","Arpèges","48.8909","2.3304","3.5","91","electronics_store home_goods_store point_of_interest store establishment",NA
+"ChIJVVVVVWFu5kcRM4qZuKILNtc","SKB Social Kitchen Bar","48.8910588","2.3312304","4.1","147","restaurant food point_of_interest store establishment","2"
+"ChIJvcLG41Nu5kcRmAC1RJrtgHY","Atlan Clement","48.8909971","2.3303013",NA,NA,"electronics_store home_goods_store point_of_interest store establishment",NA
+"ChIJdYCfWFFu5kcRFZ4BGIh7cyY","Pressing Nakar cleanliness","48.8909971","2.3303013","3.8","10","laundry point_of_interest establishment",NA
+"ChIJbzBgWFFu5kcRNWlB_2KUqAA","Siedler Celine Therese","48.8909971","2.3303013",NA,NA,"point_of_interest establishment",NA
+"ChIJC3lWWlFu5kcR5Qtm2WNgE-0","Ley Maria-Elisabeth","48.8908485","2.3308384",NA,NA,"point_of_interest establishment",NA
+"ChIJC3lWWlFu5kcR6R5ElmXq_I0","El Haik Elie","48.8908485","2.3308384","1.8","5","doctor health point_of_interest establishment",NA
+"ChIJv9GPW1Fu5kcRwmDm8_gjJQs","Ouvre","48.8908448","2.3309168",NA,NA,"point_of_interest establishment",NA
+"ChIJuzQZRlFu5kcRtyTNJi8VlT8","Place Jacques Froment","48.8909563","2.3312416","5","1","bus_station transit_station point_of_interest establishment",NA

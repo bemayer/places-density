@@ -1,0 +1,6 @@
+"Id","Name","Lat","Lng","Rating","Nb_Rating","Type"
+"ChIJz25xX_Nt5kcREwiML81LfVo","Boulevard de Ménilmontant","48.8604642","2.3887228",NA,NA,"route"
+"ChIJ6aUHYPNt5kcRZyVI6ncAMz0","A.c.d.","48.8604603","2.3883189","4.7","6","point_of_interest establishment"
+"ChIJg0NRta5t5kcR2A7QQ60uifc","Grave of Étienne-Gaspard Robert","48.8607225","2.3894456",NA,NA,"museum point_of_interest establishment"
+"ChIJaXrCWPNt5kcRQD0GJORkfxg","Roquette - Père Lachaise","48.8602258","2.3889644","5","3","bus_station transit_station point_of_interest establishment"
+"ChIJD7fiBh9u5kcRYJSMaMOCCwQ","Paris","48.856614","2.3522219",NA,NA,"locality political"

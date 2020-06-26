@@ -1,0 +1,5 @@
+"Id","Name","Lat","Lng","Rating","Nb_Rating","Type"
+"ChIJVfTDdH1y5kcR93iknsIQ86w","Cours de Vincennes","48.8471179","2.4098366",NA,NA,"route"
+"ChIJeax5C31y5kcRDtDj1pFccFE","Porte de Vincennes","48.8473384","2.4097165","3.9","13","transit_station point_of_interest establishment"
+"ChIJj-UIDH1y5kcRA_AhgJT829E","Pont du cours de Vincennes","48.84701","2.4094614",NA,NA,"point_of_interest establishment"
+"ChIJD7fiBh9u5kcRYJSMaMOCCwQ","Paris","48.856614","2.3522219",NA,NA,"locality political"

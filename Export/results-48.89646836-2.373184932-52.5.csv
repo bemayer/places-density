@@ -1,0 +1,5 @@
+"Id","Name","Lat","Lng","Rating","Nb_Rating","Type"
+"ChIJD7fiBh9u5kcRYJSMaMOCCwQ","Paris","48.856614","2.3522219",NA,NA,"locality political"
+"ChIJrz2pKCts5kcRkouRFBJR_8I","Gare de Rosa Parks","48.896536","2.37343","4","1","transit_station point_of_interest establishment"
+"ChIJ2bO2KCts5kcRuA_mR3zld0o","Gare Rosa Parks","48.8964313","2.3738889","4","117","train_station transit_station point_of_interest establishment"
+"ChIJ59fvwcht5kcRcBuUaMOCCwU","19th arrondissement of Paris","48.8823992","2.3819935",NA,NA,"sublocality_level_1 sublocality political"

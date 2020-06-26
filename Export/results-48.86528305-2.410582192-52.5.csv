@@ -1,0 +1,5 @@
+"Id","Name","Lat","Lng","Rating","Nb_Rating","Type"
+"ChIJrSw704Jt5kcRckBZYCRsK0Q","Avenue de la Porte de Bagnolet","48.8648948","2.4104294",NA,NA,"route"
+"ChIJ2bqAM51t5kcRIvvFv2C5iTA","Échangeur de Bagnolet","48.8650648","2.4107576","1","1","bus_station transit_station point_of_interest establishment"
+"ChIJ_X4gNZ1t5kcROcFOvDXa75g","Échangeur de Bagnolet","48.864994","2.4111135",NA,NA,"transit_station point_of_interest establishment"
+"ChIJD7fiBh9u5kcRYJSMaMOCCwQ","Paris","48.856614","2.3522219",NA,NA,"locality political"

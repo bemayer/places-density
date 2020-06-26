@@ -1,0 +1,5 @@
+"Id","Name","Lat","Lng","Rating","Nb_Rating","Type"
+"ChIJcQw6OSts5kcRsvZhjG6fHzY","passage Susan-Sontag","48.8968063","2.374288",NA,NA,"route"
+"ChIJOyvLPits5kcRUy-NT7UyxTc","Rosa Parks","48.8968517","2.3743084",NA,NA,"transit_station point_of_interest establishment"
+"ChIJRWYInkZt5kcR0zAcYbOj85U","Parvis Rosa Parks","48.8971755","2.3742099","4","1","park point_of_interest establishment"
+"ChIJD7fiBh9u5kcRYJSMaMOCCwQ","Paris","48.856614","2.3522219",NA,NA,"locality political"

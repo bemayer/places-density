@@ -1,0 +1,60 @@
+"Id","Name","Lat","Lng","Rating","Nb_Rating","Type","Price_level"
+"ChIJY7ylFUxu5kcRJ20uiWd2e5Q","24-44 Rue de Bruxelles","48.8828842","2.3285824",NA,NA,"route",NA
+"ChIJMdexWExu5kcRbYuIEUEvJTc","LYV2 Performance","48.8835972","2.3284195",NA,NA,"point_of_interest establishment",NA
+"ChIJEcvIPUxu5kcReWuLIwevwv4","La Chouette Pirouette Dorée","48.883103","2.3288187","4.9","10","school gym health point_of_interest establishment",NA
+"ChIJQRaVPUxu5kcRxjgL8cnwkEk","Cie Violetta Wowczak","48.883051","2.3288418",NA,NA,"point_of_interest establishment",NA
+"ChIJTVkIFkxu5kcRk4h237rnQQI","Public Primary School Bruxelles","48.8829763","2.3286805","3.8","6","school point_of_interest establishment",NA
+"ChIJzWbHWExu5kcRmlLJHdbGrWI","Avocat Paris","48.8835946","2.328551",NA,NA,"lawyer point_of_interest establishment",NA
+"ChIJMUmnR0xu5kcRCcYdVgVnQHI","Sienna","48.8834653","2.3283189","5","3","point_of_interest establishment",NA
+"ChIJETaKN0xu5kcRKtKxG9xxlOg","Forma","48.8835946","2.328551",NA,NA,"point_of_interest establishment",NA
+"ChIJ15gERExu5kcRJkH0OVqdr6c","Pharmacie Européenne de la place de clichy","48.8833754","2.3280582","3","129","pharmacy health point_of_interest store establishment",NA
+"ChIJvSHeIkxu5kcRyywEgchcWWE","Le Salon de Musique | Réparation & Location de Flûtes Traversières à Paris","48.8830816","2.3291905","4.9","40","point_of_interest establishment",NA
+"ChIJvSHeIkxu5kcR2tkDALdoeWg","Association Ecoutes et Flûtes","48.8830755","2.3291745",NA,NA,"point_of_interest establishment",NA
+"ChIJ460bRkxu5kcRmKihK-8-aAE","Cinéditions","48.8836227","2.3285481",NA,NA,"point_of_interest establishment",NA
+"ChIJT4bnOBRu5kcR9JRfTJrLmvk","EH&A Consulting - Communication sensible & gestion de crise","48.8836715","2.3285747","5","4","point_of_interest establishment",NA
+"ChIJETaKN0xu5kcRjlkVXftsVak","Together","48.8836715","2.3285747",NA,NA,"travel_agency point_of_interest establishment",NA
+"ChIJKwknaExu5kcRXUkca0_0a_w","Clinique vétérinaire du Docteur Calvo","48.8830874","2.3281322","4.4","42","veterinary_care point_of_interest establishment",NA
+"ChIJgSSDakxu5kcRxDGoOUfzZyg","Catherine Chapeaute","48.8829789","2.3282548",NA,NA,"point_of_interest establishment",NA
+"ChIJ7fD0IUxu5kcRenHlFH6LP_c","vincenzo","48.8830848","2.3292398","4.6","22","restaurant food point_of_interest establishment",NA
+"ChIJfSBY8mpu5kcRFUiYJdRn0ec","Cosmetic Office","48.8836227","2.3285481",NA,NA,"point_of_interest establishment",NA
+"ChIJNeCfPUxu5kcRfspuJnVeWcI","Jacob Thierry","48.883051","2.3288418",NA,NA,"point_of_interest establishment",NA
+"ChIJD7fiBh9u5kcRYJSMaMOCCwQ","Paris","48.856614","2.3522219",NA,NA,"locality political",NA
+"ChIJN0HhF0xu5kcRKq7bqWdjHy4","Duthilleul et Associés","48.8828853","2.3290472","5","1","accounting finance point_of_interest establishment",NA
+"ChIJmebsMExu5kcRTrRdpM6AK_I","FruitZotic","48.8836488","2.3287534",NA,NA,"grocery_or_supermarket food point_of_interest store establishment",NA
+"ChIJz2njWExu5kcRNbnDWOp3TVc","Centre D'Imagerie Place de Clichy","48.8834261","2.3280958","4","12","doctor health point_of_interest establishment",NA
+"ChIJ_cT5R0xu5kcRkvzyUcbh_7Y","McDonald's","48.8835199","2.3283178","3.1","1436","restaurant food point_of_interest establishment","1"
+"ChIJ75oaFUxu5kcREL5hk-igL_M","Clichy Sté","48.8829342","2.3284907","3.2","31","lodging point_of_interest establishment",NA
+"ChIJW22kIkxu5kcRpYnZ9I3W_Ik","Association Nationale des Assistants de Service Social (ANAS)","48.8829393","2.329013",NA,NA,"point_of_interest establishment",NA
+"ChIJH6ejv4lv5kcROA83Qat4GuE","École Lementaire Publique Bruxelles","48.8831471","2.3286741",NA,NA,"school point_of_interest establishment",NA
+"ChIJG_b9PExu5kcRV9CqMd_9BCc","Méthode Chamming's","48.883134","2.3289565",NA,NA,"school point_of_interest establishment",NA
+"ChIJc7uWPUxu5kcR2yJgdcdCkU0","Studio La Tortue","48.8830409","2.3288604",NA,NA,"point_of_interest establishment",NA
+"ChIJVVWRPUxu5kcRU4ApF11C1VU","Cours Viriot","48.8830375","2.3288568",NA,NA,"point_of_interest establishment",NA
+"ChIJk7j5PUxu5kcRZWqRrOBjLqM","Ascb","48.8829931","2.3287814",NA,NA,"point_of_interest establishment",NA
+"ChIJZyn5PUxu5kcRRW6Kty-1fq4","Ecole Primaire Bruxelles","48.8829931","2.3287814",NA,NA,"school point_of_interest establishment",NA
+"ChIJMUmnR0xu5kcRhurpFQ4diYA","MY WAY STUDIO PARIS","48.8834653","2.3283189","5","1","point_of_interest establishment",NA
+"ChIJtbiYbBVu5kcRve2dd_00wPY","Angèle Concept","48.883436","2.328984","5","1","point_of_interest establishment",NA
+"ChIJ809gSExu5kcRpZI58yNC934","Salamander","48.8835442","2.3284783",NA,NA,"shoe_store point_of_interest store establishment",NA
+"ChIJEd-pcThv5kcRAABx7ba6-Ig","KFC Paris Place de Clichy","48.8835199","2.3283178","3.4","486","restaurant food point_of_interest establishment",NA
+"ChIJ0Tolubxv5kcRQeIpxiC1cYY","Fast food","48.8835199","2.3283178",NA,NA,"restaurant food point_of_interest establishment",NA
+"ChIJ03yeDW6E5kcRQu4eWR_qULI","Abracadacab","48.8829789","2.3282548",NA,NA,"point_of_interest establishment",NA
+"ChIJgSSDakxu5kcRs3doekq4ycc","GREGORY BONGRAIN Ostéopathe paris 9","48.8829789","2.3282548","4.8","10","health point_of_interest establishment",NA
+"ChIJReW5akxu5kcRnVOx5mW-Vu0","Bongrain Guy","48.8829789","2.3282548",NA,NA,"health point_of_interest establishment",NA
+"ChIJReW5akxu5kcRG_OhhKupaJo","De Froissard Briere de la Hosseraye C","48.8829789","2.3282548",NA,NA,"point_of_interest establishment",NA
+"ChIJETaKN0xu5kcRVuq8xMrEP7U","Manny Films","48.8835946","2.328551",NA,NA,"point_of_interest establishment",NA
+"ChIJKwknaExu5kcRu_jRo-q8Mro","Brangé Georges","48.8830883","2.3281137",NA,NA,"veterinary_care point_of_interest establishment",NA
+"ChIJ81UrA-1v5kcRF2pVFcG48lY","Dentexelans","48.883598","2.3285546",NA,NA,"dentist health point_of_interest establishment",NA
+"ChIJDamjUUxu5kcRR2LFS_0jLxM","Ibis Le Bourget","48.8834488","2.328147",NA,NA,"point_of_interest establishment",NA
+"ChIJETaKN0xu5kcRcbBuKCJw8HU","Clichydis","48.8836227","2.3285481",NA,NA,"point_of_interest establishment",NA
+"ChIJvQ0yPUxu5kcRzSJk8cRB1-4","Pouget Abadie Florence","48.8830975","2.3291717","4.6","21","doctor health point_of_interest establishment",NA
+"ChIJvcpZPUxu5kcR5MzLi42VEOI","Au gourmet","48.882863","2.328852","4.4","213","restaurant food point_of_interest establishment","1"
+"ChIJn3KHSExu5kcROjDKR2pttwM","GMG Coloc","48.8836021","2.3283551",NA,NA,"point_of_interest establishment",NA
+"ChIJ23uI50lu5kcRJcLal5hb3ug","Chic","48.8833311","2.3279583","4.5","6","bar point_of_interest establishment",NA
+"ChIJi2cvC6Nl5kcRN_mc4lV-rmM","Tri Track Sn","48.8836388","2.3284581",NA,NA,"point_of_interest establishment",NA
+"ChIJvSHeIkxu5kcRaT495cbe6Yw","Salanne Pierre","48.883109","2.3292141",NA,NA,"point_of_interest establishment",NA
+"ChIJcbuWN0xu5kcRlqGgjD6IEH4","Sentinelo","48.8836766","2.3285611",NA,NA,"point_of_interest establishment",NA
+"ChIJlR5JRExu5kcRlS8TqzCKR5w","Centre De Radiologie Et D'imagerie Medicale","48.8834133","2.327992","2","1","point_of_interest establishment",NA
+"ChIJUyh8RExu5kcRK_WUoZzjWrg","Tabac La Havane","48.8833349","2.327952","3.4","68","point_of_interest store establishment",NA
+"ChIJl6ht5E5u5kcR2JbhbOeGgiA","Augier Marc","48.8828853","2.3290472","4.8","4","dentist health point_of_interest establishment",NA
+"ChIJVVW5MExu5kcRcDgXZfW8d-0","Ferrydis","48.883667","2.3288645","5","1","point_of_interest establishment",NA
+"ChIJUW6A9Uxu5kcR0ognKP2U4cU","Place de Clichy","48.8834973","2.3280252","3","3","bus_station transit_station point_of_interest establishment",NA
+"ChIJZ16EIExu5kcRsJ38Og9ligw","Statue de Berlioz","48.8832644","2.3293147",NA,NA,"point_of_interest establishment",NA

@@ -1,0 +1,7 @@
+"Id","Name","Lat","Lng","Rating","Nb_Rating","Type"
+"ChIJKcLzjbZt5kcR2aGDiuDyqpY","Avenue Jean Jaurès","48.8894724","2.3957141",NA,NA,"route"
+"ChIJGWq6kbZt5kcRmCCSdXpd1eM","Porte de Pantin","48.8895925","2.3958915","3","2","transit_station point_of_interest establishment"
+"ChIJpcMeXrFt5kcR0FX40W1tixg","BOURJAT GABILLY","48.8895925","2.3958915","2.5","2","doctor health point_of_interest establishment"
+"ChIJuX4kibZt5kcRreWi-dw1K8Y","Porte de Pantin","48.8890067","2.3955975","3.5","2","transit_station point_of_interest establishment"
+"ChIJ2VcE7rZt5kcRNtKpg4YGur0","Porte de Pantin - Parc de la Villette","48.8890267","2.395779","4.4","9","transit_station point_of_interest establishment"
+"ChIJD7fiBh9u5kcRYJSMaMOCCwQ","Paris","48.856614","2.3522219",NA,NA,"locality political"

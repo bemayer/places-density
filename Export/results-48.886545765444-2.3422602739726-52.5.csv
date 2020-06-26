@@ -1,0 +1,8 @@
+"Id","Name","Lat","Lng","Price_level","Rating","Nb_Rating","Type"
+"ChIJuSiLsFxu5kcRuKP6FiTz7RM","40-42 Rue du Chevalier de la Barre","48.8870147","2.3422795",NA,NA,NA,"route"
+"ChIJg8vfy1xu5kcRA1tGDNGsgHA","The Basilica of the Sacred Heart of Paris","48.8867111","2.3430302",NA,NA,NA,"premise church place_of_worship point_of_interest establishment"
+"ChIJ_VCZrFxu5kcRrd-C2PTlm3M","Cimetière du Calvaire","48.8868433","2.3419011",NA,"4.2","17","cemetery point_of_interest establishment"
+"ChIJCxVTVUNu5kcRxjXwtjXfWg4","Paroisse Saint-Pierre de Montmartre","48.8866786","2.3419959",NA,"4.6","475","tourist_attraction church place_of_worship point_of_interest establishment"
+"ChIJj5gnsFxu5kcRyKy2jWjSOPA","La Virgule","48.8869824","2.3420342","2","3.8","282","bar restaurant food point_of_interest establishment"
+"ChIJATaMTUNu5kcR_STD1IkZN-Y","Réservoir de Montmartre","48.8861412","2.3420229",NA,"4.6","11","point_of_interest establishment"
+"ChIJD7fiBh9u5kcRYJSMaMOCCwQ","Paris","48.856614","2.3522219",NA,NA,NA,"locality political"

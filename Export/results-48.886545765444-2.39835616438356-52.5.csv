@@ -1,0 +1,7 @@
+"Id","Name","Lat","Lng","Rating","Nb_Rating","Type"
+"ChIJfQgmtrBt5kcRMSPMCpmnN4w","Rue de la Marseillaise","48.8865424","2.3981196",NA,NA,"route"
+"ChIJBYDUsLBt5kcRViMIUpy9kaY","Marseillaise - Cheminets","48.886274","2.3981565",NA,NA,"transit_station point_of_interest establishment"
+"ChIJkfLGtrBt5kcRmiSyN0V576E","Marseillaise - Cheminets","48.8862958","2.3980524","5","1","bus_station transit_station point_of_interest establishment"
+"ChIJxbe9sLBt5kcRB6_5Jfm3ww8","Marseillaise - Cheminets","48.886208","2.398226",NA,NA,"transit_station point_of_interest establishment"
+"ChIJoX3oMrdt5kcRyuC6BXQ9hLw","Square de La Marseillaise","48.8872565","2.3977402",NA,NA,"park premise point_of_interest establishment"
+"ChIJD7fiBh9u5kcRYJSMaMOCCwQ","Paris","48.856614","2.3522219",NA,NA,"locality political"

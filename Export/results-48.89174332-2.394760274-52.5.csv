@@ -1,0 +1,5 @@
+"Id","Name","Lat","Lng","Price_level","Rating","Nb_Rating","Type"
+"ChIJ8yPwyrVt5kcR8gvdv6J8R3g","Boulevard Sérurier","48.8916207","2.3950866",NA,NA,NA,"route"
+"ChIJ52kKrOpv5kcRQqWCof_ukYc","Orchestre de Paris","48.8919119","2.39429",NA,"4.8","32","point_of_interest establishment"
+"ChIJL3b2arZt5kcR7Ry2odIkT_Y","Le Balcon","48.8916421","2.3942686","3","3.7","156","bar restaurant food point_of_interest establishment"
+"ChIJD7fiBh9u5kcRYJSMaMOCCwQ","Paris","48.856614","2.3522219",NA,NA,NA,"locality political"

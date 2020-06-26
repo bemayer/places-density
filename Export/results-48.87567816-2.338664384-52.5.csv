@@ -1,0 +1,61 @@
+"Id","Name","Lat","Lng","Rating","Nb_Rating","Type","Price_level"
+"ChIJyxw4mjhu5kcR9yl4qn8CFbo","18 Rue de Châteaudun","48.8759792","2.3386086",NA,NA,"route",NA
+"ChIJDzQ_lzhu5kcRxLT7b1KKI1s","Bbde","48.8757147","2.3388526",NA,NA,"point_of_interest establishment",NA
+"ChIJd13ymnZu5kcRXM7jx5boJBs","quarksUp","48.8756822","2.338907","5","12","point_of_interest establishment",NA
+"ChIJVVXlljhu5kcR5l-MHro8Poo","Digital Learning Day","48.8756555","2.3388153",NA,NA,"point_of_interest establishment",NA
+"ChIJnw6_kzhu5kcR1xyS4t8ax_A","Institut Pilote Guinot Mary Cohr","48.8754064","2.3386773","4.4","25","beauty_salon point_of_interest establishment",NA
+"ChIJdXqSlDhu5kcRuoeIVDWIB_Q","School Aesthetic Academy Guinot - Mary Cohr","48.875409","2.338567","3.5","44","beauty_salon spa school point_of_interest establishment",NA
+"ChIJm7V_gxFu5kcRAbqaOJHQUy0","Datadog","48.8759104","2.3382473","5","26","point_of_interest establishment",NA
+"ChIJn_8lvThu5kcRoyUuTdG-mdI","Book your Show","48.8758055","2.3391791",NA,NA,"point_of_interest establishment",NA
+"ChIJATGfojhu5kcR-WS-zZ5HX98","Meldor","48.8758048","2.3392004",NA,NA,"point_of_interest establishment",NA
+"ChIJvSxSbfdv5kcRanVzI8RRu20","Chardeau & Mazeret","48.875805","2.3392","5","2","point_of_interest establishment",NA
+"ChIJATGfojhu5kcR_6G9KAUQsm4","3 C","48.8758048","2.3392004",NA,NA,"point_of_interest establishment",NA
+"ChIJn_8lvThu5kcRAqnJZyb12qA","富士山烧烤","48.8758048","2.3392004","3.8","6","restaurant food point_of_interest establishment",NA
+"ChIJ9_yxvThu5kcRRx3ldW98aY0","Fujikko","48.8758048","2.3392004","3.7","6","restaurant food point_of_interest establishment",NA
+"ChIJOctOAMRv5kcR5FuuwUdXXdw","Les Nouveaux Héritiers","48.8756819","2.3389118","3.6","33","point_of_interest establishment",NA
+"ChIJjzx5lDhu5kcRTI_XTOjyH3I","Vendome","48.8754064","2.3386773",NA,NA,"point_of_interest establishment",NA
+"ChIJs86LmnZu5kcRmKAuH61gkZk","Louis 21","48.875715","2.338853","3.7","6","point_of_interest establishment",NA
+"ChIJt4hBkzhu5kcRJJDUNqGUpso","Plan Du Site","48.875341","2.338732",NA,NA,"point_of_interest establishment",NA
+"ChIJn_8lvThu5kcRmDb1XRadM4Q","Docteur Marc GALIANO","48.8758048","2.3392004",NA,NA,"doctor health point_of_interest establishment",NA
+"ChIJn_8lvThu5kcRO4vrYN64KHE","circoncision partielle","48.8758048","2.3392004",NA,NA,"doctor health point_of_interest establishment",NA
+"ChIJD7fiBh9u5kcRYJSMaMOCCwQ","Paris","48.856614","2.3522219",NA,NA,"locality political",NA
+"ChIJATGfojhu5kcR9U0ayX6uEpY","Hommes et Performances","48.8758048","2.3392004","4.5","2","point_of_interest establishment",NA
+"ChIJdfw5jThu5kcR8_Gs6ChXwCA","LDG AVOCATS - Florent Loyseau de Grandmaison","48.875272","2.33835",NA,NA,"lawyer point_of_interest establishment",NA
+"ChIJB6C6kjhu5kcRvd5ChocNt7U","A.R.G Avocat","48.8752715","2.3383497","5","3","point_of_interest establishment",NA
+"ChIJB6C6kjhu5kcReaUZDxXueds","Nathalie Godin","48.8752715","2.3383497",NA,NA,"lawyer point_of_interest establishment",NA
+"ChIJdfw5jThu5kcRRus0vUXaCJ0","Les Piplettes","48.8752715","2.3383497","4.7","28","restaurant food point_of_interest establishment","1"
+"ChIJAaQOcwdu5kcRArYphCv0bl0","Mce Avocat","48.8752715","2.3383497",NA,NA,"lawyer point_of_interest establishment",NA
+"ChIJ290Q7Thu5kcRXSzzuUNTsA8","Sarl Softland","48.8752715","2.3383497",NA,NA,"point_of_interest establishment",NA
+"ChIJOX98gzhu5kcR1pd9lid1DiE","Cafe Lorette","48.8760967","2.3383621","4","278","restaurant bar food point_of_interest establishment","2"
+"ChIJAQAAAEdu5kcRp4d7TOT5gNw","Du bois dans les étages","48.8759768","2.3385959",NA,NA,"general_contractor point_of_interest establishment",NA
+"ChIJLWkElDhu5kcRO6sa-83Pk9U","Club Laffitte","48.8756276","2.3387563","4.3","87","point_of_interest establishment",NA
+"ChIJATGfojhu5kcR0Lg0s-KRtqQ","Luxury Flowers","48.8756284","2.3391835","4.5","50","florist point_of_interest store establishment",NA
+"ChIJt4SS28hv5kcRH74x5X7aBkI","Croustipate","48.8756555","2.3388153",NA,NA,"food point_of_interest establishment",NA
+"ChIJVVXlljhu5kcRNeYOd-W1Mb4","Club Confair","48.8756555","2.3388153",NA,NA,"point_of_interest establishment",NA
+"ChIJVVXlljhu5kcRx5X4nIOHHT0","Cérélia Paris","48.8756555","2.3388153",NA,NA,"food point_of_interest establishment",NA
+"ChIJvUV1kThu5kcRoBclYhZMWu0","Maor","48.8756195","2.3385085",NA,NA,"point_of_interest establishment",NA
+"ChIJCZPKspNv5kcR9DizbcC_Hfo","Domino RH","48.8756819","2.3389118",NA,NA,"point_of_interest establishment",NA
+"ChIJSbKL8gFv5kcRWmVCDShnYws","HC RESOURCES","48.8756819","2.3389118",NA,NA,"point_of_interest establishment",NA
+"ChIJXaFNljhu5kcRNwWe7bYxD9w","CFDT","48.8756819","2.3389119",NA,NA,"point_of_interest establishment",NA
+"ChIJtyFjpPRv5kcRNMaULGipYB8","La Cordonnerie","48.8758029","2.3388863","4.7","30","locksmith point_of_interest store establishment",NA
+"ChIJu-ZClzhu5kcRF2M3lPF6els","Pannier Jean","48.8758029","2.3388863",NA,NA,"lawyer accounting finance point_of_interest establishment",NA
+"ChIJZUiRmThu5kcREBJa8sr6bQY","BISTRO RÉGENT","48.8758333","2.3388889","4","855","restaurant food point_of_interest establishment","2"
+"ChIJ2Roejjhu5kcRihCHStS9_1g","Ambroise Vollard's First Shop","48.875609","2.3383261","2","1","point_of_interest establishment",NA
+"ChIJpyVckThu5kcRUbqlTEY35fg","Joul","48.8756093","2.3383244",NA,NA,"point_of_interest establishment",NA
+"ChIJRShIkjhu5kcR6nDzPWgJPcI","Bain À La Grenouillère","48.8754656","2.3384569",NA,NA,"point_of_interest establishment",NA
+"ChIJjzx5lDhu5kcRyVyyh4ZFcDs","AULIDE","48.8754064","2.3386773",NA,NA,"point_of_interest establishment",NA
+"ChIJ4_Ryyw1v5kcRFFLxtxSLIas","Campus Aesthetic And Du Spa","48.8754064","2.3386773",NA,NA,"point_of_interest establishment",NA
+"ChIJ2wKjJT9u5kcRu_uj_tjZfMM","Invibes France","48.8759104","2.3382473",NA,NA,"point_of_interest establishment",NA
+"ChIJX6hQLz9u5kcRSAy9X9vF4uw","Younited Credit","48.8759104","2.3382473","4.4","141","finance point_of_interest establishment",NA
+"ChIJATGfojhu5kcRNATha-qHCYI","Valessio - Coiffeur Paris 9","48.875805","2.3392","4.5","255","beauty_salon hair_care point_of_interest establishment",NA
+"ChIJn_8lvThu5kcRIeKlBvsQsOE","Restaurant Le Bourgeon","48.8758048","2.3392004","4.2","43","restaurant food point_of_interest establishment",NA
+"ChIJs-yauj9u5kcRZ7boB2eotj4","NEOBRAIN","48.8758048","2.3392004","4.6","10","point_of_interest establishment",NA
+"ChIJn_8lvThu5kcRRooqr2tbLpY","Caroline PERRIN Avocat","48.8758048","2.3392004",NA,NA,"lawyer point_of_interest establishment",NA
+"ChIJNwyL8S9v5kcRxQw-nqMDjXA","Gabban 9","48.8758048","2.3392004",NA,NA,"point_of_interest establishment",NA
+"ChIJn_8lvThu5kcRrhQnEc7xVO0","Shoootin","48.8758048","2.3392004",NA,NA,"point_of_interest establishment",NA
+"ChIJ-3FMozhu5kcRFFq7TczLyuU","Sha Guo ? Brochettes à volonté","48.8758048","2.3392004","4","1","restaurant food point_of_interest establishment",NA
+"ChIJATGfojhu5kcRVM-g_wPEUvA","Siax","48.8758048","2.3392004",NA,NA,"point_of_interest establishment",NA
+"ChIJATGfojhu5kcRfTrqMEKBEY0","Adinas Sa","48.8758048","2.3392004",NA,NA,"point_of_interest establishment",NA
+"ChIJlzrNvDhu5kcROMdxNrTa_3Y","Cariatides","48.8758402","2.3392777",NA,NA,"point_of_interest establishment",NA
+"ChIJq6pGlThu5kcRIGeBvWpfQXw","Espace Victoire","48.8752792","2.338938","4","3","point_of_interest establishment",NA
+"ChIJp3kKcwdu5kcR1EGt2s_HOe4","Marie Camille ECK Avocat au barreau de Paris","48.8752715","2.3383497","4.7","41","lawyer point_of_interest establishment",NA

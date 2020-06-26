@@ -1,0 +1,5 @@
+"Id","Name","Lat","Lng","Rating","Nb_Rating","Type"
+"ChIJ7w6VkUps5kcRVpD9-zl0yno","Boulevard Périphérique","48.8972482","2.3943202",NA,NA,"route"
+"ChIJpUu--kps5kcRJ9zt1WsIpW8","Grands Moulins","48.8974401","2.3951053",NA,NA,"point_of_interest establishment"
+"ChIJJ3bA-kps5kcRqJiphsN-Q2A","Ella Fitzgerald - Grands Moulins de Pantin","48.8973918","2.395057","4.3","6","transit_station point_of_interest establishment"
+"ChIJD7fiBh9u5kcRYJSMaMOCCwQ","Paris","48.856614","2.3522219",NA,NA,"locality political"

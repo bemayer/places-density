@@ -1,0 +1,5 @@
+"Id","Name","Lat","Lng","Rating","Nb_Rating","Type"
+"ChIJ-5NmRvlu5kcRUrsRn1FSJh4","Boulevard Périphérique","48.9007927","2.3321108",NA,NA,"route"
+"ChIJCSwB8Gdv5kcRDC_O9jVNrBs","Париж, Отель","48.9011183","2.332368",NA,NA,"lodging point_of_interest establishment"
+"ChIJzZZLTvlu5kcRh6jVq-DvUx0","Paris, Paris Porte de St Ouen","48.901086","2.331797","5","2","transit_station point_of_interest establishment"
+"ChIJD7fiBh9u5kcRYJSMaMOCCwQ","Paris","48.856614","2.3522219",NA,NA,"locality political"

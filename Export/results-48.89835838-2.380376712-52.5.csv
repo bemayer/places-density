@@ -1,0 +1,5 @@
+"Id","Name","Lat","Lng","Rating","Nb_Rating","Type"
+"ChIJ9xfAdi1s5kcRjUbMF9A3dnE","Rue Césaria Évora","48.8980657","2.3807214",NA,NA,"route"
+"ChIJCUngz4ht5kcRP6kddN3WUfs","SERVICE CENTRAL DES BLANCHISSERIES DE L'ASSISTANCE PUBLIQUE HOPITAUX DE PARIS","48.8984144","2.3808095",NA,NA,"clothing_store point_of_interest store establishment"
+"ChIJ98N5mS1s5kcRNvxaB4uER3E","Canal Saint-Denis","48.8986872","2.3804364","4.3","4","transit_station point_of_interest establishment"
+"ChIJD7fiBh9u5kcRYJSMaMOCCwQ","Paris","48.856614","2.3522219",NA,NA,"locality political"

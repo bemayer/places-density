@@ -1,0 +1,5 @@
+"Id","Name","Lat","Lng","Rating","Nb_Rating","Type"
+"ChIJE3jcZH5u5kcRvInm2gG1KsQ","34-40 Rue de l'Évangile","48.8940363","2.3653326",NA,NA,"route"
+"ChIJv6PlQ35u5kcRwLLEfx5Tibw","Tristan Tzara","48.8942557","2.3656859","5","1","bus_station transit_station point_of_interest establishment"
+"ChIJMRA_vZtv5kcRJLLroJmHTjU","Elementary School","48.8940992","2.364794",NA,NA,"school point_of_interest establishment"
+"ChIJD7fiBh9u5kcRYJSMaMOCCwQ","Paris","48.856614","2.3522219",NA,NA,"locality political"
