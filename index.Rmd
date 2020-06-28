@@ -22,7 +22,6 @@ library(tmap)
 library(rmarkdown)
 library(RColorBrewer)
 library(leaflet)
-library(stringi)
 
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 ```
