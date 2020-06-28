@@ -1,5 +1,5 @@
 ---
-title: "Where to find the greatest density of places in Parisian North-East ?"
+title: "Where to find the greatest density of venues in Parisian North-East ?"
 description: "A spatial data visualisation project made by querying the Google Places API."
 author: "Benoît Mayer"
 output:
@@ -21,8 +21,8 @@ library(sf)
 library(tmap)
 library(rmarkdown)
 library(RColorBrewer)
-library(raster)
 library(leaflet)
+library(stringi)
 
 setwd(dirname(rstudioapi::getActiveDocumentContext()$path))
 ```
@@ -275,7 +275,7 @@ To plot the grid, the objects should projected to a planar projection instead of
 The official projection in France is Lambert 93 [@Lambert93], its references are available on the spatialreference.org website [@spatial_reference].
 
 ``` {r, echo=TRUE}
-Lambert <- crs("+proj=lcc +lat_1=49 
+Lambert <- st_crs("+proj=lcc +lat_1=49 
          +lat_2=44 +lat_0=46.5 +lon_0=3 +x_0=700000 
          +y_0=6600000 +ellps=GRS80 
          +towgs84=0,0,0,0,0,0,0 +units=m +no_defs")
@@ -348,7 +348,7 @@ for (i in (1:nrow(Grid_Paris_csv))) {
 
 ```
 
-The running time of process was 14 hours and it did not meet any issue.
+The running time of the process was 14 hours and it did not meet any issue.
 
 # Spatial data visualisation and analysis
 
@@ -359,7 +359,7 @@ The 4 964 csv files previously generated are loaded.
 ``` {r, echo=TRUE}
 
 files <- list.files(path = "Export", pattern = ".csv", full.names = TRUE)
-places <- do.call(rbind, c(lapply(files, fread), fill = TRUE)) %>% as_tibble()
+places <- do.call(rbind, c(lapply(files, fread, encoding = "UTF-8"), fill = TRUE)) %>% as_tibble()
 places
 
 ```
@@ -373,7 +373,13 @@ A total of 138 665 unique places has been queried.
 places %>% 
   distinct(Type) %>% 
   filter(!str_detect(Type, "point_of_interest|establishment"))
+````
 
+Every places not listed as `point_of_interest` or `establishment` are streets or the city of Paris itself. The focus of this study is only on actual venues thus I filtered them out. 
+
+I also removed the duplicates, transformed the `places` object to an sf object and filtered to keep only the locations within the limits of the North-East arrondissements.
+
+``` {r, echo=TRUE, warning=FALSE}
 places <-  places %>% 
   filter(str_detect(Type, "point_of_interest|establishment")) %>%
   distinct(Id, .keep_all = TRUE) %>% 
@@ -385,14 +391,9 @@ places
 ```
 
 ``` {r}
-rmarkdown::paged_table(places %>% as_tibble() %>% arrange(desc(Nb_Rating)) %>% dplyr::select(-Id) %>% mutate(Name = str_trunc(Name, 30, "right"), Type = str_trunc(Type, 50, "right")))
+rmarkdown::paged_table(places %>% as_tibble() %>% arrange(desc(Nb_Rating)) %>% dplyr::select(-Id)%>% mutate(Name = str_trunc(Name, 30, "right"), Type = str_trunc(Type, 50, "right")))
 
 ```
-
-
-Every places not listed as `point_of_interest` or `establishment` are streets or the city of Paris itself. The focus of this study is only on actual venues thus I filtered them out. 
-
-I also removed the duplicates, transformed the `places` object to an sf object and filtered to keep only the locations within the limits of the North-East arrondissements.
 
 49 866 lines are removed, with 88 799 places remaining.
 
@@ -596,7 +597,7 @@ graph_by_type %>%
 Some observations:
 
 - For shops, the district of Chaussée-d'Antin is definitely the place to go, with 1000 stores per square kilometer (exactly 545 listed for an area of 0,543 km<sup>2</sup>). It is not a surprise since the neighbourhood is known internationally for its department stores.
-- Faubourg-Montmartre is the district with the greater density of restaurants. It is possible to see tens of them just by wandering on rue du Faubourg Montmartre, including very famous ones such as Le Bouillon Chartier.
+- Faubourg-Montmartre is the district with the greater density of restaurants. It is possible to see tens of them just by wandering on rue du Faubourg Montmartre, including very famous ones such as Le Bouillon Chartier, the 11th place with the most reviews in the dataset, and the first restaurant of the list.
 - On the contrary, for bars the densest area is Folie-Méricourt. It is well known by locals to be a nightlife district, with many places to go around rue Oberkampf, rue Saint-Maur and rue Jean-Pierre Timbaud.
 
 # Conclusion
