@@ -514,6 +514,7 @@ top_10
 ```
 
 The top 10 most referenced types for places in Paris are:
+
 - store
 - health
 - food
