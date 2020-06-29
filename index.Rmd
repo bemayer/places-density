@@ -410,7 +410,7 @@ leaflet(places) %>%
 
 Dplyr functions are used to compute the density of places by district and the result is plotted interactively using Leaflet.
 
-```{r}
+```{r, echo=TRUE}
 
 places_density <- places %>%
   as_tibble() %>%
